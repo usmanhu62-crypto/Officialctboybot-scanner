@@ -3,7 +3,7 @@ import os
 from datetime import datetime
 
 # DO NOT EDIT THIS LINE - Token comes from GitHub Secrets
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = 9171651303:AAEs8FRh_dRTt0o0UJj08a8i6GFwhdaVGLA
 CHANNEL_ID = "@Officialctboybot"
 
 # You can add more symbols here
