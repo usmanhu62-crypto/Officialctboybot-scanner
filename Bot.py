@@ -22,7 +22,7 @@ def get_price(symbol):
         return None, None
 
 def send_msg(text):
-    url = f"https://api.telegram.org/bot{9171651303:AAHJTs5qVRlB1_b3gRubLH8ZTt7GCyrqAWs}/sendMessage"
+    url = f"https://api.telegram.org/bot{9171651303:AAEs8FRh_dRTt0o0UJj08a8i6GFwhdaVGLA }/sendMessage"
     payload = {
         "chat_id": CHANNEL_ID,https://t.me/Dailyotcstock
         "text": text,
