@@ -3,7 +3,7 @@ import os
 from datetime import datetime
 
 # DO NOT EDIT THIS LINE - Token comes from GitHub Secrets
-BOT_TOKEN = 9171651303:AAEs8FRh_dRTt0o0UJj08a8i6GFwhdaVGLA
+BOT_TOKEN =9171651303:AAGSXC9oIu08e7rX2WdrBtaJzyDZJsChphg
 CHANNEL_ID = "@Officialctboybot"
 
 # You can add more symbols here
@@ -22,7 +22,7 @@ def get_price(symbol):
         return None, None
 
 def send_msg(text):
-    url = f"https://api.telegram.org/bot{9171651303:AAEs8FRh_dRTt0o0UJj08a8i6GFwhdaVGLA }/sendMessage"
+    url = f"https://api.telegram.org/bot{9171651303:AAGSXC9oIu08e7rX2WdrBtaJzyDZJsChphg }/sendMessage"
     payload = {
         "chat_id": CHANNEL_ID,https://t.me/Dailyotcstock
         "text": text,
